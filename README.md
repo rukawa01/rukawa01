@@ -1,10 +1,12 @@
-### <div align="center">Hi👋I'm Rukawa
-I'm currently learning software development🧑‍💻</div>  
+### <div align="center">Hi👋I'm Rukawa</div>  
   
 
 <div align="center">
 <img src="https://media.tenor.com/AdyODFy5zhAAAAAC/anime-sharingen-madara-eye.gif" align="center" height="200" width="800" />
 </div>  
+  
+
+                       I'm currently learning software development🧑‍💻  
   
 
 - 🌱 I’m currently learning React  
@@ -67,6 +69,7 @@ I'm currently learning software development🧑‍💻</div>
 
 
 ## Recent Blog Posts  
+![Profile views counter](https://komarev.com/ghpvc/?username=rukawa01&&style=flat-square)  
   
 
 <br/>  
